@@ -1,6 +1,6 @@
 # Simple Node
 ## Overview
-This is a very simple, bare-bones NodeJS project created for you to use with Docker.
+This is a very simple, bare-bones NodeJS project created to test CICD with Travis.
 
 ## Local Setup
 * Install dependencies: `npm install`
